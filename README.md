@@ -1,7 +1,8 @@
+<img align="right" alt="Profile Picture" src="./imageprofile.jpeg" width="200"/>
+
 # 💫 About Me:
 
 🌟 Full-Stack Developer | Innovating Ideas into Code<br>Hello! 👋<br>I'm a Full-Stack Developer at Floyx.com, where I specialize in transforming innovative ideas into scalable and efficient software solutions. 🚀<br><br>🔧 My Tech Stack:<br>Frontend: React.js, Next.js, TypeScript, JavaScript<br>Backend: Node.js, Express.js<br>Database: MongoDB<br>💼 Professional Highlights:<br>💡 Passionate about converting creative concepts into production-ready code.<br>💻 Expertise in building full-stack applications that solve real-world problems.<br>💸 Developed projects generating revenues in the hundreds of thousands of dollars, successfully deployed in production environments.<br>🌟 What Drives Me:<br>Creating seamless user experiences, crafting robust backend systems, and delivering impactful results through technology. 💡<br><br>Feel free to connect and explore my repositories! 📂
-<img align="right" alt="Profile Picture" src="./imageprofile.jpeg" width="200"/>
 
 ## 🌐 Socials:
 
