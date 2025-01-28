@@ -1,20 +1,28 @@
-🌟 Full-Stack Developer | Innovating Ideas into Code
-Hello! 👋
-I'm a Full-Stack Developer at Floyx.com, where I specialize in transforming innovative ideas into scalable and efficient software solutions. 🚀
+# 🌟 Full-Stack Developer | Innovating Ideas into Code
 
-🔧 My Tech Stack:
-Frontend: React.js, Next.js, TypeScript, JavaScript
-Backend: Node.js, Express.js
-Database: MongoDB
-💼 Professional Highlights:
-💡 Passionate about converting creative concepts into production-ready code.
-💻 Expertise in building full-stack applications that solve real-world problems.
-💸 Developed projects generating revenues in the hundreds of thousands of dollars, successfully deployed in production environments.
-🌟 What Drives Me:
-Creating seamless user experiences, crafting robust backend systems, and delivering impactful results through technology. 💡
+<br><br>
+Hello! 👋 <br>
+I'm a **Full-Stack Developer** at [Floyx.com](https://floyx.com/), where I specialize in transforming innovative ideas into scalable and efficient software solutions. 🚀<br>
 
+## 🔧 My Tech Stack:
+
+<br>
+- **Frontend**: React.js, Next.js, TypeScript, JavaScript
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+<br>
+## 💼 Professional Highlights:
+<br>
+- 💡 Passionate about converting creative concepts into production-ready code.
+- 💻 Expertise in building full-stack applications that solve real-world problems.
+- 💸 Developed projects generating revenues in the hundreds of thousands of dollars, successfully deployed in production environments.
+<br>
+## 🌟 What Drives Me:
+<br>
+Creating seamless user experiences, crafting robust backend systems, engaging frontends, and delivering impactful results through technology. 💡
+<br>
 Feel free to connect and explore my repositories! 📂
-
+<br>
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushdas3110)
@@ -25,9 +33,9 @@ Feel free to connect and explore my repositories! 📂
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=piyush-3110&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=piyush-3110&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=piyush-3110&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-3110&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-3110&theme=dark&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
